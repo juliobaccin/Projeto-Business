@@ -1,0 +1,250 @@
+@charset "UTF-8";
+
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@700&family=Nunito:wght@700&family=Yellowtail&display=swap');
+
+body{
+    font-family: "Nunito", sans-serif;
+    color: #1c1c1c;
+}
+
+h1, h2, h3{
+    font-family: "Asap", sans-serif;
+    color: #000000;
+}
+
+.botao{
+    color: white;
+    text-decoration: none;
+    padding: 10px 30px;
+    background-color: #191970;
+    font-size: .9em;
+    border-radius: 3px;
+
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #191970;
+}
+
+nav a{
+    text-decoration: none;
+    color: #ffffff;
+    font-weight: 800;
+    font-size: 32px;
+    font-family: 'Yellowtail', sans-serif;
+}
+
+nav ul{
+    display: flex;
+    flex-direction :column;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    width: 100%;
+}
+
+nav ul li{
+    text-align: center;
+    width: 100%;
+}
+
+nav ul li a{
+    display: inline-block;
+    padding: 10px 0;
+    width: 100%;
+    text-decoration: none;
+    color: #ffffff;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(img/camera.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: #ffffff;
+    align-items: center;
+    padding: 20px;
+}
+
+header h1{
+
+    color: #ffffff;
+}
+
+header p{
+    margin-bottom: 2em;
+    color: rgba(255, 255, 255, 0.63);
+}
+
+header a:hover{
+    background-color: #ffffff9f;
+    color: #000000;
+}
+
+#sobre{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 10px 20px 20px;
+    background-color: #191970;
+    color: #ffffff;
+}
+
+#sobre h2{
+    color: #ffffff;
+}
+
+#sobre p{
+    margin-bottom: 2.5em;
+    max-width: 1000px;
+    color: white;
+}
+
+#sobre a:hover{
+    background-color: #1919709c;
+    color: white;
+}
+
+#sobre .botao{
+    background-color: #f1f1f1;
+    color: #1c1c1c;
+}
+
+#serviços {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+}
+
+#serviços div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    margin-top: 30px;
+}
+
+#fotos{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+#fotos h2{
+    margin-bottom: 20px;
+}
+
+#fotos img{
+    width: 100%;
+}
+
+#contato{
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    text-align: center;
+}
+
+#contato h2, p{
+    color: #000000;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #191970;
+}
+
+footer a{
+    text-decoration: none;
+    color: #00ffff;
+}
+footer p{
+    color: #ffffff;
+}
+
+footer a:hover{
+    background-color: #00ffff3b;
+    text-decoration: underline;
+    
+}
+
+@media screen and (min-width: 768px) {
+
+    nav{
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    
+    nav ul{
+        flex-direction: row;
+        width: 70%;
+    }
+
+    header{
+        height: 600px;
+        height: 60vh;
+        justify-content: center;
+    }
+
+    #sobre{
+        height: 250px;
+        height: 30vh;
+        justify-content: center;
+        min-height: 250px;
+    }
+
+    #serviços{
+        flex-direction: row;
+        flex-wrap: wrap;
+        align-items: flex-start;
+        max-width: 1000px;
+        margin: 0 auto;
+        }
+    
+     #serviços h2{
+        text-align: center;
+        width: 100%;
+     }   
+    
+     #serviços div{
+        flex-grow: 1;
+        flex-basis: 150px;
+        padding: 0 10px;
+     }
+
+     #fotos{
+        flex-direction: row;
+        flex-wrap: wrap;
+     }
+
+     #fotos h2{
+        width: 100%;
+        text-align: center;
+     }
+
+     #fotos img{
+         width: 33.3333333%
+     }
+
+     #contato{
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        max-width: 500px;
+        margin: 0 auto;
+     }
+
+     #contato h2, #contato p{
+        width: 100%;
+    
+     }
+}
