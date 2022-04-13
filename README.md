@@ -15,7 +15,7 @@ Projeto - Site de Prestação de Serviços
 </h3>   
 
 <div align="center">
-<img src="https://github.com/juliobaccin/Projeto-Site-de-vendas/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
+<img  width="500px" height="400px" src="https://github.com/juliobaccin/Projeto-Site-de-vendas/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
 </div>
 
 <h3 align="center">
