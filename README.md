@@ -10,18 +10,13 @@ Projeto - Site de Prestação de Serviços
  você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Site-de-vendas/">aqui</a>
 </p>
 
-<h3 align="center">
+<div align="center">
+<h3>
  Apresentação do Site
 </h3>   
-
-<div align="center">
-<img src="https://github.com/juliobaccin/Projeto-Site-de-vendas/blob/main/apresenta%C3%A7%C3%A3o%20site.gif">
-</div>
-
-<h3 align="center">
+<img src="https://github.com/juliobaccin/Projeto-Site-de-vendas/blob/main/Site.gif">
+<h3>
 Responsividade
 </h3>
-
-<div align="center">
 <img src="https://github.com/juliobaccin/Projeto-Site-de-vendas/blob/main/responsividade.gif">
 </div>
