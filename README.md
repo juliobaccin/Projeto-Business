@@ -3,7 +3,7 @@ Projeto - Site de Prestação de Serviços
 </h1>
  
  <p align="center">
- Site de prestação de seviços usando somente <strong>HTML</strong> e <strong>CSS</strong> desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
+ Site de prestação de seviços usando somente <strong>HTML</strong> e <strong>CSS</strong>. Desenvolvido por <a target="_blank" rel="external" href="https://github.com/juliobaccin/"><strong>Julio Cesar Baccin</strong></a>
  </p>
 
 <p align="center">
