@@ -7,14 +7,14 @@ Projeto - Site de Prestação de Serviços
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Site-de-vendas/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-PrestacaoServicos/">aqui</a>
 </p>
 
 <div align="center">
 <h3>
  Apresentação do Site
 </h3>   
-<img src="https://juliobaccin.github.io/Projeto-PrestacaoServicos/">
+<img src="https://github.com/juliobaccin/Projeto-PrestacaoServicos/blob/main/Site.gif">
 <h3>
 Responsividade
 </h3>
