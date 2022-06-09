@@ -14,7 +14,7 @@ Projeto - Site de Prestação de Serviços
 <h3>
  Apresentação do Site
 </h3>   
-<img src="https://github.com/juliobaccin/Projeto-Site-de-vendas/blob/main/Site.gif">
+<img src="https://juliobaccin.github.io/Projeto-PrestacaoServicos/">
 <h3>
 Responsividade
 </h3>
