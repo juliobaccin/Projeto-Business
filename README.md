@@ -7,7 +7,7 @@ Projeto - Site de Prestação de Serviços
  </p>
 
 <p align="center">
- você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-PrestacaoServicos/">aqui</a>
+ você pode acessar o site, clicando <a href="https://juliobaccin.github.io/Projeto-Business/">aqui</a>
 </p>
 
 <div align="center">
